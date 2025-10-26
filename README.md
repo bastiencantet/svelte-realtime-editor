@@ -20,6 +20,14 @@ pnpm install
 
 ## Développement
 
+Faire un .env.local : 
+```sh
+VITE_SUPABASE_URL=
+VITE_SUPABASE_ANON_KEY=
+```
+
+
+
 Lancez le serveur de développement :
 ```sh
 pnpm dev
